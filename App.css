@@ -1,0 +1,23 @@
+img {
+  padding-top: 5vh;
+  display: flex;
+  height: 300px;
+  align-items: center;
+  margin: auto;
+}
+
+.App {
+  background-color: #393985;
+  width: 100vw;
+  height: 100vh;
+}
+
+.search-bar-container {
+  padding-top: 10vh;
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 200px;
+}
